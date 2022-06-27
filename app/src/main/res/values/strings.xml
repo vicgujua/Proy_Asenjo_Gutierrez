@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tres en Raya</string>
+
+    <string name="homeTitle">Tres en Raya</string>
+    <string name="playButton">Jugar</string>
+
+    <string name="PlayerTitle">Introduce tu nombre</string>
+    <string name="Label1">Jugador1</string>
+    <string name="Label2">Jugador2</string>
+    <string name="submitButton">Guardar Nombres</string>
+    <string name="NameHint">Introduce tu nombre</string>
+
+    <string name="ReplayButton">Jugar de Nuevo</string>
+    <string name="homeButton">Inicio</string>
+
+</resources>
